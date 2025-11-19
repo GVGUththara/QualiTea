@@ -13,7 +13,7 @@ QualiTea is an innovative, end-to-end automated system designed to objectively e
 
 ## System Architecture
 
-![QualiTea System Overview](C:\Users\Dell\Downloads\system architecture.png)
+![QualiTea System Overview](system architecture.png)
 
 ## Technologies Used
 Backend & ML: Python, OpenCV, Scikit-learn (Random Forest, SVM), TensorFlow, Pandas, NumPy
